@@ -10,7 +10,7 @@ The goal is to uncover insights from raw data and present them through interacti
 
 Source: Publicly available CSV dataset (replace with your actual source, e.g., Kaggle, company data, etc.)
 
-Size: ~10,000 records
+Size: ~4,000 records
 
 Features: Includes attributes such as customer demographics, product details, transactions, and revenue.
 
@@ -18,11 +18,12 @@ Format: CSV → Loaded into Python → Cleaned → Stored in SQL Server.
 
 ⚙️ Tools & Technologies
 Category	Tool / Technology
-Programming	Python (Pandas, NumPy, Matplotlib, Seaborn)
+Programming	Python (Pandas, NumPy)
 Database	SQL Server
 BI Tool	Power BI
 Presentation	Gamma App
 Other Utilities	Excel, Jupyter Notebook
+
 🪜 Steps & Workflow
 1. Data Loading
 
